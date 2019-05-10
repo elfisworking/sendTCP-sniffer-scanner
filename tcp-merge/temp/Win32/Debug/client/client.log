@@ -1,0 +1,8 @@
+﻿D:\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+  captcp.cpp
+e:\tcp-merge\tcp\client\captcp.cpp(302): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\tcp-merge\tcp\client\captcp.cpp(378): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  e:\tcp-merge\tcp\client\captcp.cpp(378): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  e:\tcp-merge\tcp\client\captcp.cpp(378): note: 缺失的可变参数 1 为格式字符串“%s”所需
+e:\tcp-merge\tcp\client\captcp.cpp(253): warning C4101: “adhandle”: 未引用的局部变量
+  client.vcxproj -> E:\tcp-merge\tcp\../bin/Win32\Debug\client.exe
